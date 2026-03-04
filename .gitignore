@@ -1,0 +1,21 @@
+# Environment configuration
+.env
+
+# Database
+database/*.db
+
+# Vendor
+vendor/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
